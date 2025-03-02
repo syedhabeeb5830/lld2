@@ -1,5 +1,7 @@
 package chess;
 
+import java.awt.*;
+
 public class Player {
     public String id;
     public Color color;
